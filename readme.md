@@ -1,4 +1,4 @@
-Meu Perfil no GitHub 👋
+#Meu Perfil no GitHub 👋
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, contribuições e experimentos em desenvolvimento de software.
 
@@ -10,7 +10,7 @@ Sobre Mim 🚀
 
 💬 Pergunte-me sobre: Python, AWS Cloud
 
-Linguagens de Programação
-Java
-Python
+Linguagens de Programação:
+Java,
+Python e
 C++
