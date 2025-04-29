@@ -1,7 +1,7 @@
 # 👨‍💻Sobre mim
 Sou estudante do Embarque Digital na CESAR School, faço Análise e Desenvolvimento de Sistemas. Gosto muito de aprender sobre programação, especialmente tecnologias Back-End. 
 
-Possuo conhecimentos em Python, Java, C++ e banco de dados MySQL. 
+Possuo conhecimentos em Python, Java, C++ e banco de dados MySQL e AWS Cloud.
 Todos adquiridos na formação Com Domínio Digital 4.0, que é uma formação em programação Back-End, além de desenvolvimento das habilidades socioemocionais que são de extrema importância neste mundo da tecnologia. 
 
 
