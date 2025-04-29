@@ -12,7 +12,6 @@ Sobre Mim 🚀
 
  Vamos conversar? Adoro trocar ideias sobre tecnologia, desenvolvimento de software e inovação!
 <div> 
-  <a href="https://www.linkedin.com/in/camily-victal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:cavicfina@gmail.com" target= "_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/camilyvictalf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leandro-manuel-b74388228/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:leandro_00010@outlook.com" target= "_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
