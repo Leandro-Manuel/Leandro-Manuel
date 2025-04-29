@@ -13,10 +13,10 @@ Sobre Mim 🚀
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <a href="https://github.com/Leandro-Manuel" style="margin-right: 10px;">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Cavicf&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=leandro-manuel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/Leandro-Manuel">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavicf&layout=compact&langs_count=7&theme=darcula"/>
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-manuel&layout=compact&langs_count=7&theme=darcula"/>
   </a>
 </div>
 
