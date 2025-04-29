@@ -6,8 +6,11 @@ Todos adquiridos na formação Com Domínio Digital 4.0, que é uma formação e
 
 ## 📈 Estatísticas do GitHub	
 
+
+
+
 <a href="https://github.com/Leandro-Manuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-manuel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-main-anuraghazra.vercel.app/api?username=Leandro-Manuel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Leandro-Manuel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-manuel&layout=compact&langs_count=7&theme=darcula"/>
