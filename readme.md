@@ -5,18 +5,10 @@ Possuo conhecimentos em Python, Java, C++ e banco de dados MySQL e AWS Cloud.
 Todos adquiridos na formação Com Domínio Digital 4.0, que é uma formação em programação Back-End, além de desenvolvimento das habilidades socioemocionais que são de extrema importância neste mundo da tecnologia. 
 Sou graduado na formação AWS Re/Start pelo Instituto Aliança e tenho certificado AWS Certified Cloud Practitioner. 
 
-
-
 ## 📈 Estatísticas do GitHub	
 
-
-
-
 <a href="https://github.com/Leandro-Manuel">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leandro-Manuel&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/Leandro-Manuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-manuel&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Manuel&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
 ## 🌐 Minhas Redes
